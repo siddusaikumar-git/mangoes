@@ -1,0 +1,23 @@
+{
+  "section": "Mangoes",
+  "tiles": [
+    {
+      "title": "BanginiPalli",
+      "image": "/banginipalli-mango.jpeg",
+      "description": "Banginapalli mango, hailed as the crown jewel of Indian mangoes, boasts an elongated form with a smooth, pale yellow skin. Its juicy, fiberless flesh offers a divine blend of tropical sweetness, citrus undertones, and a fragrant aroma. Available during the peak mango season from April to June, it's a true delight.",
+      "pathName": "#"
+    },
+    {
+      "title": "Rasalu",
+      "image": "/rasalu-mango.jpeg",
+      "description": "Rasalu mango, revered in South India, showcases a small to medium size with a golden-yellow hue and occasional blush of red. Its succulent, fiberless flesh embodies a sweet, tangy flavor profile, accompanied by a captivating aroma. Ripening during the summer months, it's a cherished delight for mango enthusiasts across the region.",
+      "pathName": ""
+    },
+    {
+      "title": "Himayat",
+      "image": "/himayat-mango.jpg",
+      "description": "Himayat mango, a prized gem from the Indian subcontinent, boasts a distinctive oval shape with a vibrant golden skin tinged with red blushes. Its luscious, fiberless flesh delivers a harmonious blend of sweetness and tanginess, complemented by a delightful aroma. Savor this exquisite delight during the summer harvest season.",
+      "pathName": ""
+    }
+  ]
+}

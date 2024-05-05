@@ -1,0 +1,30 @@
+.description {
+  display: inherit;
+  justify-content: inherit;
+  align-items: inherit;
+  font-size: 0.85rem;
+  max-width: var(--max-width);
+  width: 100%;
+  z-index: 2;
+  font-family: var(--font-mono);
+  border-bottom: 5px solid green;
+}
+
+.description p {
+  position: relative;
+  margin: 0;
+  padding: 1rem;
+  font-size: xx-large;
+  background-color: rgb(255, 255, 173);
+  border: 1px solid yellow;
+  border-radius: var(--border-radius);
+}
+
+.mangoLogo {
+  align-items: center;
+  vertical-align: bottom;
+}
+
+.contact {
+  font-size: large;
+}
