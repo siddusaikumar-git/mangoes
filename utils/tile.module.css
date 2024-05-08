@@ -1,6 +1,6 @@
 .tile {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: space-between;
   padding: 1rem;
@@ -36,7 +36,7 @@
 @media (min-width: 676px) {
   .tile {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: space-between;
     padding: 1rem;

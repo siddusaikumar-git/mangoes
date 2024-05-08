@@ -17,11 +17,16 @@ export default function Header() {
         {/* <code className={styles.code}>app/page.js</code> */}
       </p>
       <div>
-        Contact:
+        {/* Contact: */}
         <br />
         <div className={styles.contact}>
-          Venkat K (+1...) <br />
+          {/* Venkat K (+1...) <br />
           Samanth (+1...)
+           */}
+          <a href="https://chat.whatsapp.com/G0Prxf9NDnzKP0UowXpXbq">
+            <Image src="/whatsapp.png" width={50} height={50}></Image>
+          </a>
+          &nbsp;&nbsp;
         </div>
       </div>
     </div>

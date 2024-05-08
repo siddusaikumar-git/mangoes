@@ -9,6 +9,7 @@ export default function Tile(props) {
         alt={props.title + " references"}
         width={150}
         height={150}
+        // fill={true}
       ></Image>
       <div className={classes.text}>
         <h2 className={classes.title}>{props.data.title}</h2>
