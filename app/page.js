@@ -8,15 +8,6 @@ export default function Home() {
     <main className={styles.main}>
       <Header />
       <Sections />
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
       {/* <div className={styles.description}>
         <p>
           Get started by editing&nbsp;

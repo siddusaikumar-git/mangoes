@@ -9,10 +9,10 @@ export default function Sections() {
       <iframe
         src="https://docs.google.com/forms/d/e/1FAIpQLSc_bV09X-MqSt3GsKT0XRdNsIBozckKPJSPWmqm52AXPx28Jg/viewform?embedded=true"
         // width="640"
-        // height="100%"
-        // frameborder="0"
-        // marginheight="0"
-        // marginwidth="0"
+        height="100%"
+        frameborder="0"
+        marginheight="0"
+        marginwidth="0"
       >
         Loading…
       </iframe>
