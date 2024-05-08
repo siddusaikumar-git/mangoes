@@ -5,8 +5,7 @@
   align-items: left;
   padding-top: 1rem;
   padding-left: 1rem;
-
-  min-height: 100vh;
+  min-height: 100%;
 }
 
 .description {
@@ -16,6 +15,7 @@
   font-size: 0.85rem;
   max-width: var(--max-width);
   width: 100%;
+  height: 100%;
   z-index: 2;
   font-family: var(--font-mono);
 }
@@ -156,7 +156,7 @@
 
   .center::before {
     transform: none;
-    height: 300px;
+    /* height: 300px; */
   }
 
   .description {
@@ -196,7 +196,7 @@
     pointer-events: none;
     inset: auto 0 0;
     padding: 2rem;
-    height: 200px;
+    /* height: 200px; */
     background: linear-gradient(
       to bottom,
       transparent 0%,

@@ -28,3 +28,9 @@
 .contact {
   font-size: large;
 }
+
+@media (max-width: 500px) {
+  .description p {
+    font-size: large;
+  }
+}

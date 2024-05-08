@@ -23,8 +23,16 @@ export default function Header() {
           {/* Venkat K (+1...) <br />
           Samanth (+1...)
            */}
-          <a href="https://chat.whatsapp.com/G0Prxf9NDnzKP0UowXpXbq">
-            <Image src="/whatsapp.png" width={50} height={50}></Image>
+          <a
+            href="https://chat.whatsapp.com/G0Prxf9NDnzKP0UowXpXbq"
+            alt="whatsapp link"
+          >
+            <Image
+              src="/whatsapp.png"
+              width={50}
+              height={50}
+              alt="Whatsapp image"
+            ></Image>
           </a>
           &nbsp;&nbsp;
         </div>
